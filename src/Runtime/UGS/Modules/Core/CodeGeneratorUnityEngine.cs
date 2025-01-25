@@ -135,7 +135,7 @@ namespace @namespace
            return @classMap;
         }}
 
-        public static string GetSheetID()
+        public string GetSheetID()
         {{
             return sheetID;
         }}
