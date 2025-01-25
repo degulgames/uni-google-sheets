@@ -1,4 +1,6 @@
-﻿namespace GoogleSheet
+﻿using System.Collections.Generic;
+
+namespace GoogleSheet
 {
     public interface ITable
     {
