@@ -135,6 +135,11 @@ namespace @namespace
            return @classMap;
         }}
 
+        public static string GetSheetID()
+        {{
+            return sheetID;
+        }}
+
     
 
 /* Fields. */
