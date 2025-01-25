@@ -9,11 +9,11 @@ Intergrate Google Sheets Your Unity Project.
 
 ## Install via git URL 
 ![image](https://user-images.githubusercontent.com/49047211/215680248-26e2093a-d7e1-462f-9bb4-a81a5699d4f0.png)  
- `https://github.com/shlifedev/uni-google-sheets.git?path=src/` 
+ `https://github.com/degulgames/uni-google-sheets.git?path=src/` 
 ## Install via OpenUPM
-`openupm add com.shlifedev.ugs`
+`openupm add com.degulgames.ugs`
 ## Example
- Example files are located in path below. [Example Guide](https://shlifedev.gitbook.io/unitygooglesheets/example-tutorial/awesome-sunny-land) .
+ Example files are located in path below. [Example Guide](https://degulgames.gitbook.io/unitygooglesheets/example-tutorial/awesome-sunny-land) .
  
  `./src/~examples/awesome_sunny.unitypackage`
  
